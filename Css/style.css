@@ -1,0 +1,323 @@
+*
+{
+    margin:0;
+    padding:0;
+   }
+   #Side
+   {
+    border:1px black;
+    width:35%;
+    height:600px;
+    float:left;
+   }
+   .Had
+   {
+   border:1px  black;
+    width:100%;
+    height:30px;
+    background-color:black;
+    color:white;
+   }
+   .Box
+   {
+       border:1px black;
+       width:110px;
+       height:28px;
+        display:flex;
+    align-items:center;
+   }
+   #Nav
+   {
+    Border:1px  black;
+    width:100%;
+    height:50px;
+    background-color:black;
+    color:white;
+   }
+   #Nav img
+   {
+    Width:32%;
+    height:50px;
+    Border-radius:100px 100px;
+   }
+   .profile
+   {
+     border:1px  black;
+     width:40%;
+     height:50px;
+     display:flex;
+     align-items:center;
+     float:left;
+   }
+   .p2
+   {
+    border:1px  black;
+    width:23%;
+    height:50px;
+    float:right;
+    display:flex;
+   align-items:center;
+   justify-content:Space-around;
+   }
+   .icon
+   {
+   border:1px  black;
+   width:15px;
+   height:18px;
+   }
+   .icon2
+   {
+    border:1px black;
+    width:5px;
+    height:18px;
+   }
+   .serch
+   {
+    border:1px black;
+    width:100%;
+    height:30px;
+    display:flex;
+    align-items:;
+    justify-content:center;
+    background-color:black;
+    color:white;
+   }
+   #inpu
+   {
+    border:1px  white;
+    background-color:black;
+    color:white;
+    border:none;
+   }
+   #inpu:Focus
+   {
+    outline:none;
+    border-bottom:1px solid green;
+   }
+   ul
+   {
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+    margin-top:16px;
+    list-style-type:none;
+    Font-size:26px;
+    
+   }
+   .a
+   {
+    margin-left:35px;
+   }
+   .special:hover
+   {
+    background-color:#ffffff1a;
+   }
+   .spc
+   {
+    background-color:#ffffff1a;
+   }
+   li img
+   {
+    width:16%;
+    height:60px;
+    border-radius:100px 100px;
+   }
+   .xyz
+   {
+     border:1px black;
+     width:90%;
+     height:80px;
+     display:flex;
+     align-items:center;
+     margin-left:22px;
+   }
+   .chat
+   {
+     border:1px black;
+   }
+   .scroll
+   {
+     border:1px black;
+     width:100%;
+     height:85%;
+     overflow:scroll;
+     background-color:black;
+    color:white;
+   }
+   .page
+   {
+    border:1px black;
+    width:65%;
+    height:726px;
+    float:right;
+   }
+   .Had2
+   {
+    border:1px Black;
+    width:100%;
+    height:30px;
+    background-color:black;
+    color:white;
+   }
+   .small
+   {
+    border:1px black;
+    width:140px;
+    height:30px;
+    float:right;
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+   }
+   .abc
+   {
+    border:1px black;
+    width:15px;
+    height:15px;
+    float:right;
+   }
+   .ABC
+   {
+    border:1px black;
+    width:13px;
+    height:15px;
+    float:right;
+   }
+   .Abc
+   {
+    border:1px black;
+    width:15px;
+    height:16px;
+    float:right;
+   }
+   #Nav2
+   {
+    border:1px black;
+    width:100%;
+    height:50px;
+    background-color:black;
+    color:white;
+   }
+   .wall
+   {
+    border:1p;
+    width:100%;
+    height:65%;
+   }
+   .wall img
+   {
+    width:100%;
+    height:100%;
+   }
+   .Profile2
+   {
+    border:1px black;
+    width:40%;
+    height:50px;
+    display:flex;
+    align-items:center;
+    font-size:26px;
+    float:left;
+   }
+   .Profile2 img
+   {
+    width:17%;
+    height:50px;
+    border-radius:100px 100px;
+   }
+   .Logo
+   {
+    border:1px black;
+    width:40%;
+    height:50px;
+    float:right;
+    display:flex;
+    align-items:center;
+   }
+   #i
+   {
+    margin-right: 20px;
+   }
+   .logo1
+   {
+    border:1px black;
+    width:15px;
+    height:15px;
+    float:right;
+    margin-left:70px;
+   }
+   .logo2
+   {
+    border:1px black;
+    width:15px;
+    height:15px;
+    float:right;
+   margin-left:40px;
+   }
+   .logo3
+   {
+    border:1px black;
+    width:15px;
+    height:15px;
+    float:right;
+    margin-left:65px;
+   }
+   .Typer
+   {
+    border:1px black;
+    width:100%;
+    height:50px;
+    background-color:black;
+    color:white;
+   }
+   .small2
+   {
+    border:1px black;
+    width:140px;
+    height:48px;
+    display:flex;
+    align-items:center;
+    float:left;
+   }
+   .emoj
+   {
+    border:1px black;
+    width:15px;
+    height:17px;
+    float:left;
+    margin-left:50px;
+   }
+   .clip
+   {
+   border:1px  black;
+    width:15px;
+    height:17px;
+    float:right;
+    margin-left:30px;
+    }
+    .text
+    {
+     border:1px black;
+     width:77%;
+     height:48px;
+     float:right;
+     display:flex;
+     align-items:center;
+    }
+    .inp
+    {
+     border:none;
+     outline:none;
+     font-size:22px;
+     background-color:black;
+     color:white;
+    }
+    #i:active
+    {
+     background-color:#ffffff1a;
+    }
+    @media only screen and (min-width:200px) and (max-width:800px){
+.Had{
+background-color:green;
+}
+    }
